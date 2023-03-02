@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+:root {
+    --font1: Arial, Helvetica, sans-serif;
+}
+
+body {
+    font-family: var(--font1);
+}
+
+table {
+    width: 500px;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+
+thead {
+    background-color: rgba(134, 134, 134, 0.693);
+    color: white;
+}
+
+th.titulo {
+    background-color: rgba(134, 134, 134, 0.693);
+    color: white; 
+}
