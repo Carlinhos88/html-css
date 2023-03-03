@@ -9,8 +9,8 @@ body {
 }
 
 table {
-    width: 500px;
     border-collapse: collapse;
+    position: relative;
 }
 
 td, th {
@@ -19,12 +19,12 @@ td, th {
     text-align: center;
 }
 
-thead {
+.cabeçalho {
     background-color: rgba(134, 134, 134, 0.693);
     color: white;
 }
 
-th.titulo {
+th.titulo, td.titulo {
     background-color: rgba(134, 134, 134, 0.693);
     color: white; 
 }
