@@ -1,4 +1,4 @@
 # html-css
- Curso de html cusro em video
+ Curso de html cursoo em video
 
 Estou aprendendo a criar sites e agora vou gerenciar meus repositorios!
